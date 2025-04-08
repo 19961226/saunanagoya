@@ -755,6 +755,11 @@ li {
   width: 100%;
   height: calc(50vh - 10rem);
 }
+@media screen and (min-width: 768px) {
+  .rest .fade-img {
+    height: calc(100vh - 10rem);
+  }
+}
 .rest .image {
   position: absolute;
   height: calc(50vh - 10rem);
