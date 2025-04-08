@@ -142,7 +142,7 @@
                 </div>
             </div>
             <div class="rest">
-                <div class="explanation">
+                <div class="explanation slide explanation-slide-bottom">
                     <h3 class="facility-title">
                         Rest Space
                     </h3>
@@ -151,7 +151,7 @@
                        ポカリやデトックスウォーターなど多種ドリンクをご用意。
                     </p>
                 </div>
-                <div class="fade-img">
+                <div class="fade-img image-balloon">
                     <img class="image" src="<?php echo esc_url( get_template_directory_uri() . '/img/rest1.jpg'); ?>" alt="">
                     <img class="image" src="<?php echo esc_url( get_template_directory_uri() . '/img/rest2.jpg'); ?>" alt="">
                     <img class="image" src="<?php echo esc_url( get_template_directory_uri() . '/img/rest3.jpg'); ?>" alt="">
