@@ -678,6 +678,9 @@ $breakpoints: (
       position:relative;
       width: 100%;
       height: calc(50vh - 10rem);
+      @include mq(md) {
+        height: calc(100vh - 10rem);
+      }
     }
 
     .image {
