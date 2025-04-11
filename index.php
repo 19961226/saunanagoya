@@ -3,7 +3,7 @@
         <section id="fv">
             <h2 class="fv-title text-animation-trigger">
                 <span class="text-animation-trigger-inner">
-                    NAGOYAで味わう至福のひととき
+                    NAGOYAで味わう至福
                 </span>
             </h2>
         </section>
